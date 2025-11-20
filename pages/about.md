@@ -12,14 +12,12 @@ bb几句记录生活
 
 ## 联系
 
-- [留言板](chat.html)
+- X&nbsp;: <a target="_blank" href="https://x.com/notdxh" style="text-decoration:none;">@notdxh
 
 - Email&nbsp;: <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=hOLr9vfr5_3l6MT19arn6_k" style="text-decoration:none;">forsocial@qq.com</a>
 
 
-## 历史
-- 2019.06.04 购入域名 dxh.xyz 
-
  <br/>
  <br/>
  
+
